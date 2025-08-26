@@ -1,0 +1,12 @@
+{
+  "name": "Pick a Scab",
+  "short_name": "Scab Picker",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffe7d6",
+  "theme_color": "#7a3b2e",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
